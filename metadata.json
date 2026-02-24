@@ -1,0 +1,5 @@
+{
+  "name": "Eventium Moto",
+  "description": "An interactive calendar application for motorcycle clubs in Italy to coordinate and manage events, preventing overlaps and facilitating communication. Built with a user-friendly interface targeted at club presidents.",
+  "requestFramePermissions": []
+}
